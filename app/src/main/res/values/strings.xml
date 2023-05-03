@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Esküvői dekoráció webshop</string>
+    <string name="password">jelszó</string>
+    <string name="name">név</string>
+    <string name="login">bejelentkezes</string>
+    <string name="regisztration">regisztráció</string>
+    <string name="felhasznalo">Felhasználó név</string>
+    <string name="email">E-mail cím</string>
+    <string name="jelszo_ujra">Jelszó megerősítés</string>
+    <string name="megsem">Mégsem</string>
+    <string name="address">Cím</string>
+    <string name="buyer">vásárló</string>
+    <string name="seller">eladó</string>
+    <string name="product_leiras">termek leiras</string>
+    <string name="guest">Vendégként</string>
+    <string name="informacio">informacio</string>
+
+    <string name="title_placeholder">Név</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">információ</string>
+
+    <string-array name="termekek_nevei">
+        <item>Arany Gyertyatartó</item>
+        <item>csipkés mécsstartó</item>
+        <item>fatábla</item>
+        <item>fatönkös gyertyatartó</item>
+        <item>zöld leveles ültetökártya</item>
+        <item>levendula</item>
+        <item>madaras szalvéta</item>
+        <item>masnival átkötött szalvéta</item>
+        <item>csipkés ültető kártya</item>
+    </string-array>
+
+    <string-array name="leiras">
+        <item>arany színű több féle magaságú letisztult gyertyatartó</item>
+        <item>vidékies hangulatú mécsestartó</item>
+        <item>vendégváró tábla</item>
+        <item>természetes anyagokból készült gyertya</item>
+        <item>kézzel festett ültetőkártyák</item>
+        <item>rizs helyet levendula az ifjú párra</item>
+        <item>esküvői kismadarakat ábrázoló szalvéta</item>
+        <item>lilla masnival átkötött szalvéta</item>
+        <item>csipke mintával diszített ültetőkártya</item>
+    </string-array>
+
+    <array name="csillagok">
+        <item>5</item>
+        <item>2.2</item>
+        <item>4</item>
+        <item>3.2</item>
+        <item>2</item>
+        <item>5</item>
+        <item>4.8</item>
+        <item>3.6</item>
+        <item>4.7</item>
+
+    </array>
+    
+    <array name="kepek">
+        <item>@drawable/aranygyertyatarto</item>
+        <item>@drawable/csipkesmecsestarto</item>
+        <item>@drawable/fatabla</item>
+        <item>@drawable/fatartosgyertya</item>
+        <item>@drawable/levelesultetokartya</item>
+        <item>@drawable/levendula</item>
+        <item>@drawable/madarasszalveta</item>
+        <item>@drawable/masnisszalveta</item>
+        <item>@drawable/ultetokartyacsipkes</item>
+    </array>
+    <array name="ar">
+        <item>6000ft</item>
+        <item>3500ft</item>
+        <item>6080ft</item>
+        <item>7500ft</item>
+        <item>5255ft</item>
+        <item>4785ft</item>
+        <item>2589ft</item>
+        <item>4569ft</item>
+        <item>2587ft</item>
+    </array>
+</resources>

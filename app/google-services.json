@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133457568617",
+    "project_id": "weddingshop-5bd90",
+    "storage_bucket": "weddingshop-5bd90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133457568617:android:6eb60220c03901e4e0d3f8",
+        "android_client_info": {
+          "package_name": "com.example.beadandoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133457568617-5vgl9n3hqqjkcaf4mfnm3jdpcuhetgnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beadandoo",
+            "certificate_hash": "81a54f33b88e6268ddf6668e8a5ad0a9a3426d6a"
+          }
+        },
+        {
+          "client_id": "133457568617-pl0g0ldive8b9lbs5g1vak55d573b26c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdXZDSU8cicHb35WFEKQF1-VPfKK2Cb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133457568617-pl0g0ldive8b9lbs5g1vak55d573b26c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
